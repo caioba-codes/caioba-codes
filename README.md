@@ -1,6 +1,6 @@
 - 🚀 Hi, I’m Caio Jähn
 - 👀 I’m interested in Software/Mechanic Engineering
-- 👨‍💻 I’m currently learning Phyton
+- 👨‍💻 I’m currently learning Python
 - 🦾 I’m looking to collaborate on game projects
 - 📫 Reach me through Instagram
 
