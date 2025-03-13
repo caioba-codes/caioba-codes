@@ -1,4 +1,4 @@
-- 🚀 Hi, I’m Caio Jähn
+- 🚀 Hi, I’m Caio Jahn
 - 👀 I’m interested in Data Science, ANNs and Artificial Ethics
 - 👨‍💻 I’m currently learning Python
 - 🦾 I’m looking to collaborate on statistical projects
